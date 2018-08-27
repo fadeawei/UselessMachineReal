@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UselessMachine</string>
+    <string name="switch_main_useless">Switch</string>
+    <string name="button_main_selfdestruct">Button</string>
+</resources>
